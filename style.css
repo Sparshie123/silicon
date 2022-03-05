@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.textStyle{
+  font:size 25px;
+  color: chartreuse;
+  text-decoration:wavy;
+  text-align: center;
+  text-shadow: 0cm;
+  }
+  
+  .text{
+   font:size 25px;
+  color:darkcyan;
+  text-align:center;
+  }
+  .inputStyle{
+    color: blue;
+    opacity: 1;
+  }
+
+  .invisibleStyle {
+    opacity: 0;
+  }
